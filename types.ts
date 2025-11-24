@@ -16,6 +16,7 @@ export interface Scenario {
   id: string;
   title: string;
   category: 'Sales' | 'Service' | 'Management' | 'Product';
+  mode: 'FreeRoleplay' | 'Scripted' | 'PPT_Presentation' | 'VR_Product';
   difficulty: 'Beginner' | 'Intermediate' | 'Advanced';
   description: string;
   roles: string[];
