@@ -1,0 +1,7 @@
+{
+  "name": "AI Sparring Coach - Enterprise Learning",
+  "description": "A comprehensive AI-powered corporate training platform featuring scenario-based sparring, role management, and detailed analytics based on the Beisen AI solution.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
